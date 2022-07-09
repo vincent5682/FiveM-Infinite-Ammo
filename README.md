@@ -8,3 +8,7 @@ A simple Infinite Ammo Script for all who need it. [Standalone]
 4. Add enure InfiniteAmmo to your server.cfg
 5. Start your Server
 
+#
+For any Question
+Discord: Vincent.#8539
+
