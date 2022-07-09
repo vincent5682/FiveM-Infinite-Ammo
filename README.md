@@ -9,6 +9,6 @@ A simple Infinite Ammo Script for all who need it. [Standalone]
 5. Start your Server
 
 #
-For any Question
+For any questions
 Discord: Vincent.#8539
 
