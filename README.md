@@ -8,6 +8,13 @@ A simple Infinite Ammo Script for all who need it. [Standalone]
 4. Add enure InfiniteAmmo to your server.cfg
 5. Start your Server
 
+# Command Guide
+- Enable InfiniteAmmo for the whole server: /infiniteOn
+- Disable InfiniteAmmo for the whole server: /infiniteOff
+
+- Enable InfiniteAmmo for a specific WeaponHash: /infiniteOnFor [YourWeaponHash]
+- Disable InfiniteAmmo for a specific WeaponHash: /infiniteOffFor [YourWeaponHash]
+
 #
 For any questions
 Discord: Vincent.#8539
