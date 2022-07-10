@@ -1,4 +1,4 @@
-# FiveM Infinite-Ammo
+# FiveM Infinite-Ammo [Standalone]
 A simple Infinite Ammo Script for all who need it. [Standalone]
 
 #            ---Installation---
