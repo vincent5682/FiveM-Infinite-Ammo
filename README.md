@@ -12,8 +12,10 @@ A simple Infinite Ammo Script for all who need it. [Standalone]
 - Enable InfiniteAmmo for the whole server: /infiniteOn
 - Disable InfiniteAmmo for the whole server: /infiniteOff
 
-- Enable InfiniteAmmo for a specific WeaponHash: /infiniteOnFor [YourWeaponHash]
-- Disable InfiniteAmmo for a specific WeaponHash: /infiniteOffFor [YourWeaponHash]
+- Enable InfiniteAmmo for a specific WeaponHash: /infiniteOnFor [WeaponName]
+- Disable InfiniteAmmo for a specific WeaponHash: /infiniteOffFor [WeaponName]
+- Weaponnames can be found here: https://www.vespura.com/fivem/weapons/stats/
+- Example for usage: "/infiniteOnFor weapon_appistol"
 
 #
 For any questions
