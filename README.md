@@ -17,6 +17,21 @@ A simple Infinite Ammo Script for all who need it. [Standalone]
 - Weaponnames can be found here: https://www.vespura.com/fivem/weapons/stats/
 - Example for usage: "/infiniteOnFor weapon_appistol"
 
+# Use without command
+
+add this to client.lua
+
+````lua
+Citizen.CreateThread(function()
+    while true do
+        Citizen.Wait(1000)
+        for i = 1, #weaponStealeableList do
+            SetPedInfiniteAmmo(GetPlayerPed(-1), true, tonumber(weaponStealeableList[i]))
+        end
+    end
+end)
+````
+
 #
 For any questions
 Discord: Vincent.#8539
